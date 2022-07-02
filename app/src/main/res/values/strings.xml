@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Eliaa Company</string>
+    <string name="logo">شركة إيلياء الطيبة للنقل والسياحة</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="add_reservation">اضافة حجز جديد</string>
+</resources>
